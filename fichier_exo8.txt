@@ -1,0 +1,6 @@
+ceci
+123 soleil
+est
+un
+fichier
+test

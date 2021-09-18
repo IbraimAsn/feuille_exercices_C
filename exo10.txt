@@ -1,0 +1,7 @@
+__INT_MAX__ vaut 2147483647
+
+Si un int dépasse cette valeur alors celui-ci overflow
+Ce qui va donc le faire revenir à la valeur 0.
+
+D'où pourquoi la condition de l'arrêt de la boucle est respectée et donc
+pourquoi la boucle s'arrête.
